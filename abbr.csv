@@ -1,0 +1,153 @@
+IPsec,IP Security,IPを拡張してセキュリティを高めたプロトコル。
+IP,Internet Protocol,インターネット上でコンピューター同士が通信を行うために定められた通信規約。
+TCP,Transmission Control Protocol,コネクション型通信を行うプロトコル。信頼性は高いが転送効率は低い。
+UDP,User Datagram Protocol,コネクションレス型通信を行うプロトコル。信頼性は低いが転送効率は高い。
+MIME,Multipurpose Internet Mail Extension,ASCII文字しか使用できないSMTPを利用したメールで、日本語の2バイトコードや画像データを送信するための仕組み。
+S/MIME,Secure MIME,公開鍵暗号技術を使用して「認証」「改ざん検出」「暗号化」などの機能を電子メールソフトに提供する規格。認証は送受双方のメールソフト間で行われる。デジタル署名機能もある。
+SSH,Secure Shell,公開鍵暗号や認証の技術を利用して、安全にリモートコンピュータと通信するためのプロトコル。
+SWOT(分析),Strength Weakness Opportunity Threat,自社の強み、弱み、機会、脅威の分析
+EA,Enterprise Architecture,社会環境や情報技術の変化に素早く対応できるよう 「全体最適」の観点から業務やシステムを改善する仕組み。4つの体系から構成される。
+BI,Business Intelligence,組織の業務システムに蓄積された膨大なデータを分析・加工し、経営や業務に役立つ情報を見つけ出す手法・技術の総称。
+ROI,Return on Investment,投下資本利益率。＝利益／投資額。
+ERP,EnterPrise Resource Planning,企業全体の経営資源の配分を有効かつ統合的に管理し、経営の効率向上を図ること。
+BPO,Business Process Outsourcing,経営資源をコアビジネスに集中させるために，社内業務のうちコアビジネス以外の業務を外部に委託すること
+BPR,Business Process Reengineering,業務プロセスを根本的に考え直し、抜本的にデザインし直すことによって、企業のコスト、品質、サービス、スピードなどを劇的に改善すること。
+HEMS,Home Energy Management System,家庭で使用されるあらゆる電気機器をネットワークとして繋ぎ、エネルギー消費量を可視化しつつ積極的な制御を行うことで、省エネやピークカットの効果を目指す仕組み。
+ADAS,Advanced Driver-Assistance System,先進運転支援システム。自動車に取り付けたセンサで車両の状態，路面状況などのデータを計測し，ネットワークを介して保存し分析することによって，効率的な運転を支援する。
+CGM,Consumer Generated Media,ユーザが投稿した内容をもとにページが作成されていくWebコンテンツの形態です。代表例としては、掲示板、Q&Aサイト、SNS、製品や商品に対する利用者の口コミを投稿できるサイトなどがあります。
+ANSI,American National Standards Institute,アメリカ合衆国の工業的な分野の標準化組織であり公の合意形成のために、さまざまな規格開発をおこなう団体。
+IEEE,Institute of Electrical and Electronics Engineers,電気・電子技術に関する非営利の団体であり、主な活動内容としては、学会活動、書籍の発行、IEEE規格の標準化を行っている。
+IETF,Internet Engineering Task Force,TCP/IP・HTTP・SMTPなどのようにインターネット上で開発される技術やプロトコルなどを標準化する組織。
+RFC,Request for Comments,インターネット上に公開され誰もが自由に閲覧できる、IETFの規格。
+NIST,National Institute of Standards and Technology,アメリカ国立標準技術研究所。アメリカの技術革新や産業競争力を強化するために、経済保障を強化して生活の質を高めるように計測学、規格、産業技術を促進することを目的とする機関。
+
+DHCP,Dynamic Host Configuration Protocol,TCP/IPで、ネットワークに接続するノードへのIPアドレスの割り当てを自動的に行うプロトコル。
+PPPoE,Point-to-Point Protocol over Ethernet,PPPプロトコルをEthernet上で利用するためのプロトコル。
+DNS(サーバー),Domain Name System,ドメイン名とIPアドレスを変換する仕組みを提供するサーバー。
+WPA3,Wi-Fi Protected Access 3,無線LANのセキュリティプロトコル。
+DMZ,DeMilitarized Zone,非武装地帯。外部でも内部でもない中間的な位置に存在するセグメント。Webサーバ・メールサーバ・プロキシサーバなどのように外部セグメント(インターネット)からアクセスされる可能性のある情報資源を設置する。
+SMTP,Simple Mail Transfer Protocol,電子メールを送信するために使用するアプリケーション層 のプロトコル。
+DFD,Data Flow Diagram,データの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する手法。
+RPO,Recovery Point Objective,障害発生時、過去の「どの時点まで」のデータを復旧させるかの目標値。
+RTO,Recovery Time Objective,目標復旧時間。業務中断後、どのくらいの時間で復旧させるかを示す目標値。
+CIO,Chief Information Officer,最高情報責任者。情報システムを統括する最高責任者。専門的よりむしろ全体的な視点から。
+
+DTD,Document Type Definition,XMLなどのマークアップ言語において文書構造を定義するスキーマ言語の一つ。
+CGI,Common Gateway Interface,ユーザの入力した情報によって表示するWebページを変化させるなど、動的なWebページを作成するための仕組み。
+SOA,Service-Oriented Architecture,サービス指向アーキテクチャ。業務上の一処理に相当するソフトウェアで実現されている機能や部品を独立したサービスとし、それらを組み合わせ連携させることで全体のシステムを構築するという手法。
+SFA,Sales Force Automation,売上・利益の増加や，顧客満足度の向上のために，営業活動にITを活用して営業の効率と品質を高める概念のこと。
+POS,Point Of Sale,販売情報を1点ごとにリアルタイムで情報システムに取り込む販売店の管理方法。
+MIPS,Million Instructions Per Second,コンピュータの処理速度をあらわす単位の一つで、毎秒何百万回の命令を実行できるかを表す値。
+IDS,Intrusion Detection System,侵入検知システム。ネットワークやホストをリアルタイムで監視し、異常を検知した場合に管理者に通知するなどの処置を行うシステムです
+SSID,Service Set ID,無線LAN(Wi-Fi)におけるアクセスポイントの識別名。
+RFI,Request for Information,情報提供依頼書。企業・組織がシステム調達や業務委託をする場合や、初めての取引となるベンダ企業に対して情報の提供を依頼すること、またはその際に提出される文書。
+RFP,Request for Proposal,提案依頼書。情報システムの調達を予定している企業・組織が、発注先候補のITベンダに対して具体的なシステム提案をするように求めること、またはシステム要件や調達要件を取りまとめた文書
+RFID,Radio Frequency ID,近距離無線通信を利用した自動認識技術。SuicaやEdyなどに使用されている。
+OtoO,Online to Offline,インターネット上(オンライン)から実世界(オフライン)への行動（またはその逆）を促進するマーケティング施策。
+FIFO,First-in First-out,"ページインしてからの時間が最も長いページ"を置換え対象とするアルゴリズム。
+LRU,Least Recently Used,"最後に参照された時刻が最も古いページ"を置換え対象とするアルゴリズム。
+FQDN,Fully Qualified Domain Name,「​完全に指定された(限定された)ドメイン名」または「絶対ドメイン名」。
+HTTP,HyperText Transfer Protocol,インターネット通信に使われるプロトコル。Webサーバーのポート番号は80。
+COCOMO,constructive cost model,開発規模が分かっていることを前提として，工数と工期を見積もる方法。ビジネス分野に限らず，全分野に適用可能である。
+SLA,Service Level Agreement,サービスの提供事業者とその利用者の間で結ばれる、サービスのレベル（定義、範囲、内容、達成目標等）に関する合意サービス水準、サービス品質保証。
+BYOD,Bring Your Own Device,従業員が個人的に所有するPCやスマートフォンなどの情報端末を職場に持ち込み、それを業務に使用すること。
+BYOA,Bring Your Own Access,従業員個人が、私有するクラウドサービスやモバイルアプリで業務データを扱うこと。
+
+BCP,Business Continuity Plan,事業継続計画。テロや災害、システム障害など危機的状況下に置かれた場合でも、重要な業務が継続できる方策を用意し、生き延びられるようにしておくための計画。
+VPN,Virtual Private Network,インターネット上に仮想の専用線を設定し、特定の人のみが利用できる専用ネットワーク。
+ACK(パケット),acknowledgement,肯定応答。要求やデータなどの受け手が送り手に肯定的な返事を返すためのフレームやパケットなどのこと。
+
+
+ARP,Address Resolution Protocol,IPアドレスから対応する機器のMACアドレスを取得するプロトコル。
+NAPT,Network Address Port Translation,IPマスカレードとも。TCP（UDP）/IPパケットに含まれるIPアドレスとポート番号を、別のIPアドレスとポート番号に変換する技術。
+CVSS,Common Vulnerability Scoring System,共通脆弱性評価システム。基本評価基準、現状評価基準、環境評価基準の3つの評価基準からなる情報システムの脆弱性に対する評価手法。
+CRUD(マトリクス),Create Read Update Delete,クラッド図。ステムで管理対象となっているデータがどの機能によって生成(Create)され、参照(Read)され、更新(Update)され、削除(Delete)されるかを表形式で一覧化したもの。
+VDI,Virtual Desktop Infrastructure,仮想デスクトップ基盤。サーバ内にクライアントごとの仮想マシンを用意して仮想デスクトップ環境を構築する技術。
+ICT,Information and Communication Technology,情報通信技術。
+SL(理論),Situational Leadership,部下や集団（フォロワー）の能力及び意欲の水準（レディネス）ごとに、有効性が高いリーダシップのスタイルを示したモデル。
+LSI,Large Scale Integration,大規模集積回路。シリコンの小片上にトランジスタなどの素子と配線を組み込み、特定回路機能を持たせた部品。
+SoC,System on a Chip,CPUコア、GPUコア、DSP、メモリ、タイマ、通信などの機能を1つのチップ上で実現したシステムLSI。
+SiP,System in a Package,複数のLSIを1つのパッケージまとめることでシステムLSIを実現する方式。
+MCU,Micro-Control Unit,マイクロコントローラー。マイコン。コンピュータの機能一式を一枚のICチップに実装した製品。
+BLE,Bluetooth Low Energy,Bluetoothの一部で、低消費電力に特化した通信モードのこと。IoTに利用される。
+LTE,Long Term Evolution,通信規格の一種。4G(厳密には3.9G)。
+PLC,Power Line Communication,電力線を通信回線としても利用する技術。
+SDN,Software-Defined Network,ソフトウェア制御によって物理的なネットワーク構成にとらわれない動的で柔軟なネットワークを実現する技術。主にOpenFlowにより実現される。
+TLS,Transport Layer Security,インターネットなどのTCP/IPネットワークでデータを暗号化して送受信するプロトコル（通信手順）の一つ。SSLの後継規格。
+RACI(チャート),Responsible Accountable Consulted Informed,実行責任、説明責任、相談対応、報告先・情報提供の担当者を示す表。
+IaaS,Infrastructure as a Service,クラウドコンピューティングの1つ。仮想化技術を利用してハードウェアリソース（CPU／メモリ／ストレージ）などのデジタルインフラをインターネット経由でオンデマンドで提供するサービス。
+PaaS,Platform as a Service,クラウドコンピューティングの1つ。大規模なデータセンターに、アプリケーションを稼動するためのネットワーク、サーバシステム、OSやミドルウェアなどのプラットフォームが用意され、企業ユーザがそのプラットフォーム上で開発を行うことができる。
+SaaS,Software as a Service,クラウドコンピューティングの1つ。クラウドにあるソフトウェアを利用できるサービス。
+PPM,Product Portfolio Management,縦軸と横軸に「市場成長率」と「市場占有率」を設定したマトリクス図を4つの象限に区分し，市場における製品の位置付けを分析することで、経営資源の最適な配分を検討する手法。
+MTBF,Mean Time Between Failure,平均故障間隔。故障までに稼働した時間の平均。
+MTTR,Mean Time To Repair,平均修理時間。故障から復旧までにかかった時間の平均。
+RAM,Random Access Memory,揮発性メモリの一種。電源を供給しないと記憶している情報を保持できない。
+DRAM,Dynamic RAM,動作している間は定期的にデータの書き直し（リフレッシュ）を行う必要がある揮発性メモリ。PCのメインメモリなど。
+SRAM,Static RAM,リフレッシュが不要な揮発性メモリ。PCのキャッシュメモリなど。
+HDL,Hardware Description Language,ディジタル回路の設計や構成を文字で記述するハードウェア記述言語
+PWM,Pulse Width Modulation,パルス幅変調。信号の強度は一定のまま、パルス信号を出力する時間(width)を長くしたり短くしたりすることで電流・電圧を制御する方式。インバータなどに用いられる。
+PAM,Pulse Amplitude Modulation,パルス振幅変調。パルス信号を出力する時間は一定で、信号の強度(振幅)によって制御する方式。
+D/A(コンバータ),Digital-Analog,デジタル信号をアナログ信号に変換する回路。 マイコンからスピーカーなどのアナログ入力が必要な部品を制御する場合に用いられる。
+ACID(特性),Atomicity Consistency Isolation Durability,トランザクションに必要不可欠な特性。原子性、一貫性、独立性、耐久性。
+PoE,Power over Ethernet,イーサネットのLANケーブルを通じて電力を供給する技術。
+CRL,Certificate Revocation List,証明書失効リスト。有効期限内であるにもかかわらず、秘密鍵の漏えい、紛失、証明書の被発行者の規則違反などの理由により失効したディジタル証明書が列挙されたリスト。
+OCSP,Online Certificate Status Protocol,リアルタイムでディジタル証明書の失効情報を検証し、有効性を確認するプロトコル。
+IPS,Intrusion Prevention System,侵入防止システム。IDSに異常を検知した場合の対処として通信のブロックを行う機能を付加した仕組み。
+C&C(サーバ),Command and Control,攻撃者がマルウェアに対して指令コマンドを送信し、マルウェアに感染した支配下のコンピュータ群(ボットネット)の動作を制御するために用いられる外部の指令サーバ。
+CDN,Contents Delivery Network,Webサイトのコンテンツをキャッシュし，本来のサーバに代わってコンテンツを利用者に配信することによって，ネットワークやサーバの負荷を軽減する。
+TPM,Trusted Platform Module,PCのマザーボード上に直付けされるセキュリティチップで、RSA暗号の暗号／復号や鍵ペアの生成、ハッシュ値の計算、デジタル署名の生成・検証などの機能を有する。
+IMAP,Internet Message Access Protocol,メール受信プロトコル。
+EVM,Earned Value Management,プロジェクトにおける作業を金銭の価値に置き換えて、コストとスケジュールの2つを定量的に管理する進捗管理手法。
+PDM(図法の一種),Precedence Diagramming Method,プロジェクトの工程間の関係を図示するための作図法の一つで、作業の開始や終了の対応関係を示すもの。
+SoE,System of Engagement,企業システムのうち、顧客や企業との関係性を深めるために構築されるシステムのこと。
+SoR,System of Record,企業システムのうち、ビジネス上のデータを正確に記録することを主眼とするシステムのこと。
+EDI,Electronic Data Interchange,異なる組織に設置されている端末間で、通信回線を介して取引のためのメッセージ(データ)を交換すること、およびそのための仕組み。
+PDPC,Process Decision Program Chart,プロセス決定計画図。ある計画における目的達成のためにあらゆる事態を事前に想定し、計画の開始から最終結果に至る過程や手順を時間の推移に従って矢印で結合した図。
+
+SDXC,SD Extended Capacity,2009年に策定されたSDの規格で、ファイルシステムにexFATを採用することで記憶容量の上限を2Tバイトまで引き上げたもの。
+CSMA/CD,Carrier Sense Multiple Access with Collision Detection,初期イーサネットLANで使用されていたアクセス制御方式。バス型やスター型トポロジで使用される。データ送信が衝突した際にランダム時間待って送信しなおす。
+(WPA2-)PSK,Pre-Shared Key,WPA2のうち小規模なネットワークで使用されるモード。アクセスポイントと端末間で事前にパスフレーズ(PSK:Pre-Shared Key)を共有しておき、そのパスフレーズとSSIDによって端末の認証を行う。
+BSC,Balanced Scorecard,企業の戦略を実現するために，財務，顧客，内部ビジネスプロセス，学習と成長という四つの視点から戦略を検討したもの。
+BPM,Business Process Management,企業の目標を達成するために業務内容や業務の流れを可視化し，一定のサイクルをもって継続的に業務プロセスを改善すること。
+TCO,Total Cost of Ownership,ある設備・システムなどに関する、取得から廃棄までに費用の総額。
+EUC,End User Computing,実際にそのシステムを使って業務をする人たち（ユーザ部門）が、自分たちでシステムを作ったり運用したりすること。またはそれを助けるシステム。
+CRM,Customer Relationship Management,顧客関係管理手法の一つ。顧客満足度を向上させるために、顧客との関係を構築することに力点を置く経営手法。新規顧客を獲得するより、既存顧客の維持に力を入れる方が有効な戦略であるという考え方。
+SCM,Supply Chain Management,生産，在庫，購買，販売，物流などのすべての情報をリアルタイムに交換することによって，サプライチェーン全体の効率を大幅に向上させる経営手法。
+IFRS,International Financial Reporting Standards,国際財務会計報告基準。世界共通で利用できることを目指す会計基準。
+IASB,International Accounting Standards Board,国際会計基準審議会。
+
+LIFO,Last-in First-out,先入れ後出し。FILOでも同じ意味。例：スタックの要素の扱い方。
+ISP,Internet Service Provider,プロバイダー。インターネットへの接続サービスを行う事業者。
+LAN,Local Area Network,一定の限定されたエリアで接続できるネットワーク。家庭内LANや社内LANなど。
+WAN,Wide Area Network,遠く離れたエリアとつながったネットワーク。インターネットもWANの一種。
+L2TP,Layer 2 Tunneling Protocol,2層=データリンク層のセキュアなプロトコル。
+WAF,Web Application Firewall,Webアプリケーションに対する攻撃を検知し、遮断することが可能なファイアウォール。
+HCM,Human Capital Management,人的資本管理。人材が持つ能力やスキル、経験を資本として捉え、組織の利益最大化に活用していく考え方。
+PDM(システム),Product Data Management,製造情報管理。図面・部品構成データ，仕様書データなどの設計及び開発の段階で発生する情報を一元管理することによって，設計業務及び開発業務の効率を向上させる。
+PKI,Public Key Infrastructure,公開鍵暗号基盤。公開鍵暗号方式を利用し、インターネット上で安全に情報のやりとりを行うセキュリティのインフラ(基盤)。
+VLAN,Virtual LAN,仮想LAN。物理的な接続形態とは独立して、仮想的なLANセグメントを作る技術。
+ESSID,Extended SSID,SSIDと同じ。
+RWD,Responsive Web Design,レスポンシブデザイン。閲覧ユーザーが使用するデバイスの画面サイズに応じて表示を最適化するデザイン。
+UA,User Agent,ネット利用者が使用しているOS・ブラウザ。
+
+CISC,Complex Instruction Set Computer,複雑命令セットコンピュータ。マイコンの演算方式の一種。CPUに高機能な命令を持たせることによって、一つの命令で複雑な処理を実現できる方法。
+RISC,Reduce Instruction Set Computer,縮小命令セットコンピュータ。マイコンの演算方式の一種。CPU内部に単純な命令しか持たないかわりに、それらをハードウェアのみで実装して、一つ一つの命令を高速に処理できる。
+DOA,Data Oriented Approach,データ中心設計。業務で扱うデータの構造や流れに着目してデータの分析やシステム設計を行う方法のこと。
+DMA,Direct Memory Access,コンピュータシステム内でのデータ転送方式の一つ。CPUを介さずに周辺機器やメインメモリなどの間で直接データ転送を行う方式。
+ICMP,Internet Control Message Protocol,IP上のエラー通知や制御メッセージを転送するための、TCP/IPの補助的なプロトコル。
+MIMD,Multiple Instruction/Multiple Data,複数のマイクロプロセッサーを搭載した並列コンピューターにおいて、複数のマイクロプロセッサーが異なるデータを並行して処理する方式。
+RARP,Reverse ARP,MACアドレスからIPアドレスを求めるためのプロトコル。
+SIEM,Security Information and Event Management,さまざまな機器やソフトウェアの動作状況の記録（ログ）を一元的に蓄積・管理し、保安上の脅威となる事象をいち早く検知・分析し、情報漏えいなどの異常を自動検出して管理者にスピーディに通知する仕組み。
+SysML,Systems Modeling Language,システムの設計及び検証を行うために用いられる、グラフィカルなモデリング言語。
+UTM,Unified Threat Management,総合脅威管理。ファイアウォールや侵入検知、アンチマルウェアなど、複数のセキュリティ機能を統合したネットワークセキュリティ対策。高機能なファイアウォール。
+VLIW,Very Long Instruction Word,マイコンの設計様式の1つで、複数の命令を1つの命令としてまとめて同時に実行する方式のこと。
+CI,Continuous Integration,継続的インテグレーション。ビルドやテストを頻繁に繰り返し行なうことにより問題を早期に発見し、開発の効率化や省力化、納期の短縮などを図る手法。
+
+ROM,Read Only Memory,一度だけ書込みが可能な不揮発性メモリ。
+UML,Unified Modeling Language,オブジェクト指向開発で用いられる標準表記法群で、オブジェクト間の関連や動作・構成を表現する13種の図表から構成される。
+KPI,Key Performance Indicator,重要業績評価指標。目標を達成する上で、その達成度合いを計測・監視するための定量的な指標のこと。販売件数など。
+
+
+
+
+
