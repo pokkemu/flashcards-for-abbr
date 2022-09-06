@@ -1,5 +1,5 @@
 import csv
-import numpy
+import random
 
 if __name__ == '__main__':
     while True:
@@ -10,7 +10,7 @@ if __name__ == '__main__':
                 if len(row) != 0:
                     l.append(row)
         while True:
-            i = numpy.random.randint(0, len(l))
+            i = random.randint(0, len(l) - 1)
             print(l[i][0].strip())
             answer = input()
             if answer.lower().strip() == 'restart' or answer.lower().strip() == 'reset':
